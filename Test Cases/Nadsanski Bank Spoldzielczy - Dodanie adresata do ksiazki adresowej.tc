@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nadsanski Bank Spoldzielczy - Dodanie adresata do ksiazki adresowej</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c067a5f-b8f2-412e-96ec-bbc6a7910c33</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f1e040b-c193-4484-abc9-f138b2b2204a</id>
+      <masked>false</masked>
+      <name>dana_1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>165110cf-d50b-433b-a788-3a00e0af251c</id>
+      <masked>false</masked>
+      <name>dana_2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d78783b-dee0-4f4f-a1e0-59a973a24f2d</id>
+      <masked>false</masked>
+      <name>dana_3</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e789edda-8cdf-486a-816b-2f122bf2409d</id>
+      <masked>false</masked>
+      <name>dana_4</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65338251-a902-4782-8a93-e5430b79785d</id>
+      <masked>false</masked>
+      <name>dana_5</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbd04fa3-0e80-4b9e-a184-a7988330b061</id>
+      <masked>false</masked>
+      <name>dana_6</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0138cb2-3b13-4615-81d4-d9186d8a971b</id>
+      <masked>false</masked>
+      <name>dana_7</name>
+   </variable>
+</TestCaseEntity>
