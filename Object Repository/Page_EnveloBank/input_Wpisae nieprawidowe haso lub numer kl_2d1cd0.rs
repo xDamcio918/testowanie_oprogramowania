@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Wpisae nieprawidowe haso lub numer kl_2d1cd0</name>
+   <tag></tag>
+   <elementGuidId>a72e0c6b-5e68-474e-a3bc-2d5c509b7cf4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='DALEJ']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-default.button-submit.huge-size</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default button-submit huge-size</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>DALEJ</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>loginMain.loginError &amp;&amp; loginMain.formData.userId.length === 0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;os-windows browser-chrome device-unknown&quot;]/ui-view[1]/div[@class=&quot;_3yz0RkzgWF4XqYW6f_pIvH auth-page-footer&quot;]/div[@class=&quot;slide-container&quot;]/div[@class=&quot;slide&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;ng-valid ng-valid-maxlength ng-dirty ng-valid-parse&quot;]/div[@class=&quot;login-form col-lg-6 col-sm-8&quot;]/input[@class=&quot;btn btn-default button-submit huge-size&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='DALEJ']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+   </webElementXpaths>
+</WebElementEntity>

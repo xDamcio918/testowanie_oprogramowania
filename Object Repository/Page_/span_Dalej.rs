@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dalej</name>
+   <tag></tag>
+   <elementGuidId>1dce58e5-1dd0-4d2d-80b2-437cba185cde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Wyloguj'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nextBtn.v-button.v-button-cbp-button-blue.cbp-button-blue > span.v-button-wrap > span.v-button-caption</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-button-caption</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dalej</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;v-app v-theme-cbp v-app-CbpApplication&quot;]/div[@class=&quot;v-view v-scrollable&quot;]/div[@class=&quot;v-customcomponent&quot;]/div[@class=&quot;v-customcomponent&quot;]/div[@class=&quot;v-verticallayout v-verticallayout-cbp-login-main-layout cbp-login-main-layout&quot;]/div[1]/div[4]/div[1]/div[@class=&quot;v-customcomponent&quot;]/div[@class=&quot;v-verticallayout v-verticallayout-cbp-wizard-login cbp-wizard-login cbp-login-form-layout&quot;]/div[1]/div[3]/div[1]/div[@class=&quot;v-horizontallayout&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;v-horizontallayout&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;nextBtn v-button v-button-cbp-button-blue cbp-button-blue&quot;]/span[@class=&quot;v-button-wrap&quot;]/span[@class=&quot;v-button-caption&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wyloguj'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Korporacyjny'])[1]/following::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wersja demonstracyjna 2.14.2'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dalej']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>
