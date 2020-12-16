@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+nadsanski_bank_spoldzielczy-testsuite,Chrome 87.0.4280.88,,,2020-12-16 11:45:39,2020-12-16 11:45:54,"14,549s",FAILED
+,,,,,,,
+Test Cases/Nadsanski Bank Spoldzielczy - Dodanie adresata do ksiazki adresowej,Chrome 87.0.4280.88,,,2020-12-16 11:45:40,2020-12-16 11:45:54,"13,218s",FAILED
+"openBrowser("""")",Chrome 87.0.4280.88,,,2020-12-16 11:45:41,2020-12-16 11:45:45,"4,204s",PASSED
+"navigateToUrl(""https://demo.sabaservice.pl/hb/auth/login.xhtml?return=doWeba"")",Chrome 87.0.4280.88,,,2020-12-16 11:45:45,2020-12-16 11:45:47,"2,152s",PASSED
+"setText(findTestObject(""Object Repository/Page_I-BANK SYSTEM DEMONSTRACYJNY - Logowanie/input_Identyfikator_j_username""), dana_1)",Chrome 87.0.4280.88,,,2020-12-16 11:45:47,2020-12-16 11:45:48,"0,881s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_I-BANK SYSTEM DEMONSTRACYJNY - Logowanie/input_Haso_j_password""), dana_2)",Chrome 87.0.4280.88,,,2020-12-16 11:45:48,2020-12-16 11:45:49,"0,507s",FAILED
