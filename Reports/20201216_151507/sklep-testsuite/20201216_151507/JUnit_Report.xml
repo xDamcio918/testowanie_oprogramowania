@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="sklep-testsuite" time="19.544" tests="1" failures="0" skips="0" errors="0">
+   <testsuite name="sklep-testsuite" tests="1" failures="0" errors="0" time="19.544" skips="0" timestamp="2020-12-16 15:15:12" hostname="Damian_Laptop - 192.168.0.10" id="Test Suites/sklep-testsuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Damian_Laptop\\Katalon Studio\\projekt02\\Reports\\20201216_151507\\sklep-testsuite\\20201216_151507"/>
+         <property name="logFiles" value="C:\\Users\\Damian_Laptop\\Katalon Studio\\projekt02\\Reports\\20201216_151507\\sklep-testsuite\\20201216_151507\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Damian_Laptop - 192.168.0.10"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.8.1.208"/>
+         <property name="browser" value="Chrome 87.0.4280.88"/>
+         <property name="hostAddress" value="192.168.0.10"/>
+         <property name="sessionId" value="ab20188ad8cd44ac62390864002277ef"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Sprawdzenie rejestrascji sklepu odzieżowego" time="18.299" classname="Test Cases/Sprawdzenie rejestrascji sklepu odzieżowego" status="PASSED">
+         <system-out><![CDATA[2020-12-16 15:15:13 - [TEST_CASE][PASSED] - Test Cases/Sprawdzenie rejestrascji sklepu odzieżowego: Test Cases/Sprawdzenie rejestrascji sklepu odzieżowego
+
+2020-12-16 15:15:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2020-12-16 15:15:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2020-12-16 15:15:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2020-12-16 15:15:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2020-12-16 15:15:18 - [TEST_STEP][PASSED] - navigateToUrl("https://bohomoss.com/pl/client-new.html?register"): Navigate to 'https://bohomoss.com/pl/client-new.html?register' successfully
+
+2020-12-16 15:15:20 - [MESSAGE][PASSED] - Navigate to 'https://bohomoss.com/pl/client-new.html?register' successfully
+
+2020-12-16 15:15:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_NIP_client_firstname"), dana_1): Text 'Zenek' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_NIP_client_firstname'
+
+2020-12-16 15:15:21 - [MESSAGE][PASSED] - Text 'Zenek' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_NIP_client_firstname'
+
+2020-12-16 15:15:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Imi_client_lastname"), dana_2): Text 'Kowalski' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Imi_client_lastname'
+
+2020-12-16 15:15:23 - [MESSAGE][PASSED] - Text 'Kowalski' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Imi_client_lastname'
+
+2020-12-16 15:15:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Nazwisko_client_street"), dana_3): Text 'Konopnicka 14B/2' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Nazwisko_client_street'
+
+2020-12-16 15:15:24 - [MESSAGE][PASSED] - Text 'Konopnicka 14B/2' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Nazwisko_client_street'
+
+2020-12-16 15:15:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Ulica i numer_client_zipcode"), dana_4): Text '24-452' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Ulica i numer_client_zipcode'
+
+2020-12-16 15:15:24 - [MESSAGE][PASSED] - Text '24-452' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Ulica i numer_client_zipcode'
+
+2020-12-16 15:15:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Kod pocztowy_client_city"), dana_5): Text 'Bydgoszcz' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Kod pocztowy_client_city'
+
+2020-12-16 15:15:25 - [MESSAGE][PASSED] - Text 'Bydgoszcz' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Kod pocztowy_client_city'
+
+2020-12-16 15:15:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Prowincja_client_phone"), dana_6): Text '654345789' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Prowincja_client_phone'
+
+2020-12-16 15:15:26 - [MESSAGE][PASSED] - Text '654345789' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Prowincja_client_phone'
+
+2020-12-16 15:15:26 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Telefon_client_email"), dana_7): Text 'kowalski.zenek@gmail.com' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Telefon_client_email'
+
+2020-12-16 15:15:27 - [MESSAGE][PASSED] - Text 'kowalski.zenek@gmail.com' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Telefon_client_email'
+
+2020-12-16 15:15:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Adres e-mail_client_email_confirmation"), dana_8): Text 'kowalski.zenek@gmail.com' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Adres e-mail_client_email_confirmation'
+
+2020-12-16 15:15:27 - [MESSAGE][PASSED] - Text 'kowalski.zenek@gmail.com' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Adres e-mail_client_email_confirmation'
+
+2020-12-16 15:15:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Twoje konto_client_login"), dana_9): Text 'helios234234' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Twoje konto_client_login'
+
+2020-12-16 15:15:29 - [MESSAGE][PASSED] - Text 'helios234234' is set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Twoje konto_client_login'
+
+2020-12-16 15:15:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Login musi mie minimum 3, a maksimum _0c855d"), dana_10): Text ****** has been set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Login musi mie minimum 3, a maksimum _0c855d'
+
+2020-12-16 15:15:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Login musi mie minimum 3, a maksimum _0c855d'
+
+2020-12-16 15:15:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Akceptuj warunkii._terms_agree")): Object: 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Akceptuj warunkii._terms_agree' is clicked on
+
+2020-12-16 15:15:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Akceptuj warunkii._terms_agree' is clicked on
+
+2020-12-16 15:15:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/button_Zarejestruj konto")): Object: 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/button_Zarejestruj konto' is clicked on
+
+2020-12-16 15:15:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/button_Zarejestruj konto' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2020-12-16 15:15:12 - [TEST_SUITE][INCOMPLETE] - sklep-testsuite: null]]></system-out>
+      <system-err><![CDATA[2020-12-16 15:15:12 - [TEST_SUITE][INCOMPLETE] - sklep-testsuite: null]]></system-err>
+   </testsuite>
+</testsuites>

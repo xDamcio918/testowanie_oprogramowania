@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+sklep-testsuite,Chrome 87.0.4280.88,,,2020-12-16 15:15:12,2020-12-16 15:15:32,"19,544s",PASSED
+,,,,,,,
+Test Cases/Sprawdzenie rejestrascji sklepu odzieżowego,Chrome 87.0.4280.88,,,2020-12-16 15:15:13,2020-12-16 15:15:32,"18,299s",PASSED
+"openBrowser("""")",Chrome 87.0.4280.88,,,2020-12-16 15:15:14,2020-12-16 15:15:18,"4,056s",PASSED
+"navigateToUrl(""https://bohomoss.com/pl/client-new.html?register"")",Chrome 87.0.4280.88,,,2020-12-16 15:15:18,2020-12-16 15:15:20,"2,594s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_NIP_client_firstname""), dana_1)",Chrome 87.0.4280.88,,,2020-12-16 15:15:20,2020-12-16 15:15:21,"0,844s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Imi_client_lastname""), dana_2)",Chrome 87.0.4280.88,,,2020-12-16 15:15:21,2020-12-16 15:15:23,"1,683s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Nazwisko_client_street""), dana_3)",Chrome 87.0.4280.88,,,2020-12-16 15:15:23,2020-12-16 15:15:24,"0,697s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Ulica i numer_client_zipcode""), dana_4)",Chrome 87.0.4280.88,,,2020-12-16 15:15:24,2020-12-16 15:15:24,"0,692s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Kod pocztowy_client_city""), dana_5)",Chrome 87.0.4280.88,,,2020-12-16 15:15:24,2020-12-16 15:15:25,"0,793s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Prowincja_client_phone""), dana_6)",Chrome 87.0.4280.88,,,2020-12-16 15:15:25,2020-12-16 15:15:26,"0,908s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Telefon_client_email""), dana_7)",Chrome 87.0.4280.88,,,2020-12-16 15:15:26,2020-12-16 15:15:27,"0,701s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Adres e-mail_client_email_confirmation""), dana_8)",Chrome 87.0.4280.88,,,2020-12-16 15:15:27,2020-12-16 15:15:27,"0,719s",PASSED
+"setText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Twoje konto_client_login""), dana_9)",Chrome 87.0.4280.88,,,2020-12-16 15:15:27,2020-12-16 15:15:29,"1,125s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Login musi mie minimum 3, a maksimum _0c855d""), dana_10)",Chrome 87.0.4280.88,,,2020-12-16 15:15:29,2020-12-16 15:15:29,"0,468s",PASSED
+"click(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/input_Akceptuj warunkii._terms_agree""))",Chrome 87.0.4280.88,,,2020-12-16 15:15:29,2020-12-16 15:15:29,"0,490s",PASSED
+"click(findTestObject(""Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/button_Zarejestruj konto""))",Chrome 87.0.4280.88,,,2020-12-16 15:15:29,2020-12-16 15:15:32,"2,144s",PASSED
