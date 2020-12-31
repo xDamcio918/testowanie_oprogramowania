@@ -61,3 +61,5 @@ WebUI.click(findTestObject('Object Repository/Page_I-BANK SYSTEM DEMONSTRACYJNY 
 
 WebUI.click(findTestObject('Object Repository/Page_I-BANK SYSTEM DEMONSTRACYJNY - Lista k_aa9ff4/a_WYLOGUJ'))
 
+WebUI.closeBrowser()
+
