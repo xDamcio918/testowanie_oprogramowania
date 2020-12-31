@@ -54,3 +54,5 @@ WebUI.click(findTestObject('Object Repository/Page_Bohomoss. Najpikniejsze satyn
 
 WebUI.click(findTestObject('Object Repository/Page_Bohomoss. Najpikniejsze satynowe piamy_3954a1/button_Zarejestruj konto'))
 
+WebUI.closeBrowser()
+
